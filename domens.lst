@@ -57,7 +57,13 @@ connectivitycheck.gstatic.com
 *googleapis.com
 *l.google
 # kvas
-myip2.ru
-2ip.ru
+*myip2.ru
+*ifconfig.me
+*addr.tools
+*myip.addr.tools
+*browserleaks.com
+*dnsleaktest.com
 *ns1.cloudflare.net
-*cloudflare.net
+# my
+flibusta.is
+jut.su
